@@ -1,0 +1,2 @@
+Gere o código de uma classe (Model) chamada "Aluno", contendo campos para nome completo, email institucional, curso, período (semestre que está cursando) e senha. Gere as tipificações de 
+
