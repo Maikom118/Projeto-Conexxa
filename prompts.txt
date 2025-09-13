@@ -1,2 +1,6 @@
 Gere o código de uma classe (Model) chamada "Aluno", contendo campos para nome completo, email institucional, curso, período (semestre que está cursando) e senha. Gere as tipificações de 
 
+Preciso que crie o código para uma classe do tipo Model de um Grupo de Estudos. O grupo de estudos deve conter: nome do grupo de estudos, curso, período, membros, foto de perfil do grupo e descrição. Os membros serão objetos do tipo "Aluno.cs", cujo arquivo está nesse mesmo diretório. A foto será uma URL.
+
+Crie o código para uma classe tipo Model de um Administrador do sistema. A classe deve conter nome completo, e-mail institucional, área de formação, cursos que ministra (array de string) e senha.
+
