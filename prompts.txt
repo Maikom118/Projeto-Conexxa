@@ -4,5 +4,6 @@ Preciso que crie o código para uma classe do tipo Model de um Grupo de Estudos.
 
 Crie o código para uma classe tipo Model de um Administrador do sistema. A classe deve conter nome completo, e-mail institucional, área de formação, cursos que ministra (array de string) e senha.
 
-What else do you suggest me doing, based on the current state of the program and the goals of the Conexxa app?
-
+I need you to create a Controller class for the "GrupoDeEstudo.cs" model, available in the "Models" folder. The controller must have Create, Read, Update and Delete endpoints.
+The data will be stored using SQLite, so the class must be compatible with that.
+The default route should be "Grupos"
