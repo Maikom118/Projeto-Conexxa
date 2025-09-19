@@ -4,3 +4,5 @@ Preciso que crie o código para uma classe do tipo Model de um Grupo de Estudos.
 
 Crie o código para uma classe tipo Model de um Administrador do sistema. A classe deve conter nome completo, e-mail institucional, área de formação, cursos que ministra (array de string) e senha.
 
+What else do you suggest me doing, based on the current state of the program and the goals of the Conexxa app?
+
