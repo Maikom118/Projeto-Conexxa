@@ -7,3 +7,5 @@ Crie o código para uma classe tipo Model de um Administrador do sistema. A clas
 I need you to create a Controller class for the "GrupoDeEstudo.cs" model, available in the "Models" folder. The controller must have Create, Read, Update and Delete endpoints.
 The data will be stored using SQLite, so the class must be compatible with that.
 The default route should be "Grupos"
+
+Crie uma classe GrupoService.cs, baseando-se no model e controller disponíveis na pasta "src". Estarei utilizando SQLite como banco de dados.
